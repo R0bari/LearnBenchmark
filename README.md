@@ -2,5 +2,5 @@
 Making some benchmarks with nuget package BenchmarkDotNet.
 
 <h3>Results</h3>
-BenchmarkCycles:
+BenchmarkCycles:</br>
 ![BenchmarkCycles](Results/BenchmarkCycles.png)
